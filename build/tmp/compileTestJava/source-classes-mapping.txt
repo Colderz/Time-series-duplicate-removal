@@ -1,0 +1,2 @@
+pl/zimny/arkadiusz/FunctionalClassTests.java
+ pl.zimny.arkadiusz.FunctionalClassTests

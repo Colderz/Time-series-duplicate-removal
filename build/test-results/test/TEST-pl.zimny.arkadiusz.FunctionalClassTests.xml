@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.zimny.arkadiusz.FunctionalClassTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-05-11T00:33:29" hostname="DESKTOP-JL3AC14" time="0.03">
+  <properties/>
+  <testcase name="should_get_properly_list()" classname="pl.zimny.arkadiusz.FunctionalClassTests" time="0.025"/>
+  <testcase name="should_get_properly_size()" classname="pl.zimny.arkadiusz.FunctionalClassTests" time="0.001"/>
+  <testcase name="should_include_same_content()" classname="pl.zimny.arkadiusz.FunctionalClassTests" time="0.0"/>
+  <testcase name="should_get_properly_first_item()" classname="pl.zimny.arkadiusz.FunctionalClassTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

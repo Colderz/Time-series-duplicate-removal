@@ -1,0 +1,4 @@
+pl/zimny/arkadiusz/FunctionalClass.java
+ pl.zimny.arkadiusz.FunctionalClass
+pl/zimny/arkadiusz/SensorData.java
+ pl.zimny.arkadiusz.SensorData
